@@ -1,0 +1,27 @@
+Features of the dataset: 
+
+- survival - Survival (0 = No; 1 = Yes)
+- class - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
+- name - Name
+- sex - Sex
+- age - Age
+- sibsp - Number of Siblings/Spouses Aboard
+- parch - Number of Parents/Children Aboard
+- ticket - Ticket Number
+- fare - Passenger Fare
+- cabin - Cabin
+- embarked - Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+
+
+
+Questions :
+
+
+11. What is Univariate Analysis?
+How Many People Survived And How Many Died?
+How Many Passengers Were In First Class, Second Class, and Third Class?
+Number of Male And Female Passengers
+12. Bivariate Analysis
+How Has Better Chance of Survival Male or Female?
+Which Passenger Class Has Better Chance of Survival (First, Second, Or Third Class)? 
+13. Feature Engineering
